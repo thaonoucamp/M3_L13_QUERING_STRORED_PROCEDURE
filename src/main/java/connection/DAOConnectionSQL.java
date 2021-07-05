@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DAOConnectionSQL {
-        private String jdbcURL = "jdbc:mysql://localhost:3306/QUERING.users?useSSL=false";
+        private String jdbcURL = "jdbc:mysql://localhost:3306/QUERING?useSSL=false";
         private String jdbcUsername = "root";
         private String jdbcPassword = "04051990";
 
